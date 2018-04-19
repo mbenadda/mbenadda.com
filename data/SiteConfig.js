@@ -1,7 +1,7 @@
 module.exports = {
   blogPostDir: "sample-posts", // The name of directory that contains your posts.
-  blogAuthorDir: "sample-authors", // The name of directory that contains your 'authors' folder.
-  blogAuthorId: "casper", // The default and fallback author ID used for blog posts without a defined author.
+  blogAuthorDir: "people", // The name of directory that contains your 'authors' folder.
+  blogAuthorId: "mehdi", // The default and fallback author ID used for blog posts without a defined author.
   siteTitle: "Mehdi Benadda, freelance web developer", // Site title.
   siteTitleAlt: "Mehdi Benadda, freelance web developer, JS/TS/Reason", // Alternative site title for SEO.
   siteLogo:
