@@ -16,7 +16,6 @@ import PostDate from "../components/PostDate/PostDate";
 import PostFooter from "../layouts/PostFooter/PostFooter";
 import AuthorImage from "../components/AuthorImage/AuthorImage";
 import AuthorInfo from "../components/AuthorInfo/AuthorInfo";
-import PostShare from "../components/PostShare/PostShare";
 import GhostSubscribe from "../components/GhostSubscribe/GhostSubscribe";
 import ReadNext from "../components/ReadNext/ReadNext";
 import PostTags from "../components/PostTags/PostTags";
@@ -122,11 +121,6 @@ class PostTemplate extends React.Component {
               <PostFooter>
                 <AuthorImage author={authorData} />
                 <AuthorInfo prefix="/author" author={authorData} />
-                <PostShare
-                  postNode={postNode}
-                  postPath={location.pathname}
-                  config={config}
-                />
                 <GhostSubscribe />
                 <Disqus postNode={postNode} />
               </PostFooter>
