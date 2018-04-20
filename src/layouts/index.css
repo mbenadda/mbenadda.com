@@ -747,3 +747,8 @@ button {
         margin: 2rem auto;
     }
 }
+
+
+.gatsby-highlight {
+    margin-bottom: 1.75em;
+}
