@@ -1,0 +1,92 @@
+{
+  "assetsByChunkName": {
+    "path---tags-typescript": [
+      "path---tags-typescript-9b642602bce726437a01.js",
+      "path---tags-typescript-9b642602bce726437a01.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---tags-javascript": [
+      "path---tags-javascript-fe091753fca37270a665.js",
+      "path---tags-javascript-fe091753fca37270a665.js.map"
+    ],
+    "path---tags-static-typing": [
+      "path---tags-static-typing-acdf03e5786f8db46efa.js",
+      "path---tags-static-typing-acdf03e5786f8db46efa.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-934c7ab304a445eeacfe.js",
+      "component---src-layouts-index-jsx-934c7ab304a445eeacfe.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-category-jsx": [
+      "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js",
+      "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js.map"
+    ],
+    "path---index": [
+      "path---index-7ca4cb90bed92f247dbe.js",
+      "path---index-7ca4cb90bed92f247dbe.js.map"
+    ],
+    "component---src-pages-about-jsx": [
+      "component---src-pages-about-jsx-16dca089dee574aef9ce.js",
+      "component---src-pages-about-jsx-16dca089dee574aef9ce.js.map"
+    ],
+    "component---src-templates-author-jsx": [
+      "component---src-templates-author-jsx-12ce2ca0e878ee8e2bca.js",
+      "component---src-templates-author-jsx-12ce2ca0e878ee8e2bca.js.map"
+    ],
+    "commons": [
+      "commons-17365ce3c33b38bbf29e.js",
+      "build-js-styles.css",
+      "commons-17365ce3c33b38bbf29e.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---typescripts-strict-compiler-option": [
+      "path---typescripts-strict-compiler-option-0a0b73effb7e8dff3f5d.js",
+      "path---typescripts-strict-compiler-option-0a0b73effb7e8dff3f5d.js.map"
+    ],
+    "path---tags-build": [
+      "path---tags-build-3ce0deda92496167282c.js",
+      "path---tags-build-3ce0deda92496167282c.js.map"
+    ],
+    "component---src-templates-tag-jsx": [
+      "component---src-templates-tag-jsx-804c509f67e4f0dfe287.js",
+      "component---src-templates-tag-jsx-804c509f67e4f0dfe287.js.map"
+    ],
+    "path---categories-default": [
+      "path---categories-default-52f0147afef4b6690048.js",
+      "path---categories-default-52f0147afef4b6690048.js.map"
+    ],
+    "component---src-templates-index-jsx": [
+      "component---src-templates-index-jsx-c030c3e84aae5df244ae.js",
+      "component---src-templates-index-jsx-c030c3e84aae5df244ae.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-post-jsx": [
+      "component---src-templates-post-jsx-b1dac6569c7f98e57823.js",
+      "component---src-templates-post-jsx-b1dac6569c7f98e57823.js.map"
+    ],
+    "path---author-mehdi": [
+      "path---author-mehdi-c5075c0e750ff3ccc3f5.js",
+      "path---author-mehdi-c5075c0e750ff3ccc3f5.js.map"
+    ],
+    "app": [
+      "app-e96decb9488c113f30f6.js",
+      "build-js-styles.css",
+      "app-e96decb9488c113f30f6.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
